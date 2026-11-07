@@ -50,7 +50,7 @@ Ethereal Client is based on the open-source **Anubis** project.
 
 A huge thank you to the original Anubis developers and contributors for their work and for providing the foundation for this project.
 
-- Original project: [Anubis on GitHub](https://github.com/search?q=Anubis+Minecraft+client&type=repositories)
+- Original project: https://discord.gg/anubis
 
 All original work belongs to its respective authors. Ethereal's modifications and original contributions are separate from the original project.
 
